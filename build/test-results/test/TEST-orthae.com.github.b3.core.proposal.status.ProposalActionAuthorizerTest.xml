@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="orthae.com.github.b3.core.proposal.status.ProposalActionAuthorizerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-07-10T14:21:41" hostname="A5" time="0.002">
-  <properties/>
-  <testcase name="authorizeVerified()" classname="orthae.com.github.b3.core.proposal.status.ProposalActionAuthorizerTest" time="0.001"/>
-  <testcase name="authorizeCreated()" classname="orthae.com.github.b3.core.proposal.status.ProposalActionAuthorizerTest" time="0.0"/>
-  <testcase name="authorizeDefault()" classname="orthae.com.github.b3.core.proposal.status.ProposalActionAuthorizerTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
