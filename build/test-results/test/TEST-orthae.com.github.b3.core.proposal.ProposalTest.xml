@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="orthae.com.github.b3.core.proposal.ProposalTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-10T14:21:41" hostname="A5" time="0.015">
+  <properties/>
+  <testcase name="construction()" classname="orthae.com.github.b3.core.proposal.ProposalTest" time="0.009"/>
+  <testcase name="modifyContentBlank()" classname="orthae.com.github.b3.core.proposal.ProposalTest" time="0.002"/>
+  <testcase name="modifyContentNull()" classname="orthae.com.github.b3.core.proposal.ProposalTest" time="0.001"/>
+  <testcase name="constructionNullTitle()" classname="orthae.com.github.b3.core.proposal.ProposalTest" time="0.0"/>
+  <testcase name="constructionBlankTitle()" classname="orthae.com.github.b3.core.proposal.ProposalTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

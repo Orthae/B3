@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      host: ${B3_DB_HOST:localhost}
+      port: ${B3_DB_PORT:27017}
+      database: ${B3_DB_NAME:b3}
